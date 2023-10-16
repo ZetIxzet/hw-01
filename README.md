@@ -53,4 +53,4 @@
 
 ### Решение 2
 
-![Скриншот-2](https://github.com/ZetIxzet/hw-01/blob/main/133332.png)
+![Скриншот-2](https://github.com/ZetIxzet/hw-01/blob/main/133333.png)
