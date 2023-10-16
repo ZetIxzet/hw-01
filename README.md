@@ -43,4 +43,14 @@
 
 ![Скриншот-1](https://github.com/ZetIxzet/hw-01/blob/main/132309.png)
 
-```
+---
+
+### Задание 2 
+
+С помощью Yandex Monitoring сделайте 2 алерта на загрузку процессора: WARN и ALARM. Создайте уведомление по e-mail.
+
+---
+
+### Решение 2
+
+![Скриншот-2](https://github.com/ZetIxzet/hw-01/blob/main/133332.png)
